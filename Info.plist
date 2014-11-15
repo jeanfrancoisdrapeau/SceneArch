@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>SceneArch</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.eluder.SceneArch</string>
+	<key>CFBundleName</key>
+	<string>SceneArch</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.6</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1.13</string>
+	<key>CFBundleVersion</key>
+	<string>1.1.13</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>rar</string>
+				<string>zip</string>
+				<string>001</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>SceneArch</string>
+			<key>CFBundleTypeIconFile</key>
+			<string>AppIcon</string>
+		</dict>
+	</array>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+</dict>
+</plist>
